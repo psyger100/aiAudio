@@ -1,0 +1,8 @@
+requests
+moviepy
+google-cloud-texttospeech
+google-cloud-speech
+pydub
+python-dotenv
+ffmpeg-python
+
